@@ -1,0 +1,47 @@
+
+#puma{
+    display: flex;
+}
+
+#nombre{
+    font-family: 'Roboto', sans-serif;
+    border: solid 1px;
+    padding: 8px;
+}
+
+#flexeando{
+    display: flex;
+}
+
+legend{
+    border: solid 2px;
+    background-color: beige;
+}
+
+#listacuadrado{
+    list-style-type: square;
+
+}
+
+#parrafo-one{
+    background-color: green;
+}
+
+#parrafo-two{
+    background-color: red;
+}
+
+.leermas{
+    color: blue;
+    background-color: aqua;
+
+
+}
+
+.hide{
+    display: none ;
+}
+
+.show{
+    display: block;
+}
